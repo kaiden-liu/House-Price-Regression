@@ -16,8 +16,7 @@
   * https://www.kaggle.com/dejavu23/house-prices-eda-to-ml-beginner#Part-0-:-Imports,-Settings,-Functions
   * https://www.kaggle.com/pmarcelino/comprehensive-data-exploration-with-python
   * https://markdown-guide.readthedocs.io/en/latest/basics.html#headers
-# Data fields
-Here's a brief version of what you'll find in the data description file.   
+# Data description 
 The full list can be found in the file **data_description.txt**
 
 * SalePrice - the property's sale price in dollars. This is the target variable that you're trying to predict.
